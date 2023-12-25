@@ -16,25 +16,23 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Ayuuverse" textStyles="text-center" />
+      <TypingText title="| About Apple Vision" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Ayuuverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this Ayuuverse
-        world, because this is really the{' '}
+        <span>Introducing the </span><span className="font-extrabold text-white">Apple Vision Pro</span>  
+        – a groundbreaking leap into the future of immersive
+         
+        {' '}
         <span className="font-extrabold text-white">
-          madness of the Ayuuverse
+        technology!
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the Ayuuverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the Ayuuverse by scrolling down
+        Immerse yourself in a world where cutting-edge innovation meets seamless functionality,as{' '}
+        <span className="font-extrabold text-white">AppleVR</span> devices you can
+        unveils its latest marvel in the form of the {' '}
+        <span className="font-extrabold text-white">Apple Visison Pro.</span> 
       </motion.p>
 
       <motion.img

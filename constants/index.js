@@ -29,7 +29,7 @@ export const exploreWorlds = [
 export const startingFeatures = [
   'Find a world that suits you and you want to enter',
   'Enter the world by reading all the documents to be safe',
-  'No need to beat around the bush, just stay on the Ayuuverse and have fun.💖',
+  'No need to beat around the bush, just stay on the Apple Vision and have fun.💖',
 ];
 
 export const newFeatures = [
@@ -50,13 +50,13 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Ayuuverse makes Elon musk shocked.',
+    title: 'The launch of the Apple Vision makes Elon musk shocked.',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Ayuuverse',
+    title: '7 tips to easily master the madness of the Apple Vision',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
