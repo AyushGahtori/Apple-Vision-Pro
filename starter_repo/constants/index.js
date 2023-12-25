@@ -28,8 +28,8 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Enter the world by reading all the documents to be safe',
+  'No need to beat around the bush, just stay on the Ayuuverse and have fun.💖',
 ];
 
 export const newFeatures = [
@@ -50,7 +50,7 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Ayuuverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Ayuuverse makes Elon musk shocked.',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
