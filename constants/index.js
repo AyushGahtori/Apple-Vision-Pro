@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading all the documents to be safe',
-  'No need to beat around the bush, just stay on the Apple Vision and have fun.💖',
+  '8K Super Retina XDR display for unparalleled visual clarity and vibrancy.',
+  'A16 Bionic chip powers lightning-fast performance, enabling seamless multitasking and gaming.',
+  'Advanced camera system with AI enhancements for spectacular photo and video capture.',
 ];
 
 export const newFeatures = [
